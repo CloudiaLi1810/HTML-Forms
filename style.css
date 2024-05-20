@@ -14,7 +14,7 @@ form{
 }
 #left{
     float: left;
-    background-image: url("/Beach.jpg");
+    background-image: url("Beach.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 48rem;

@@ -1,0 +1,63 @@
+body{
+    width: 100%;
+    background-image: url("/HTML-CSS-Bootstrap/Forms/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+/*"{% static 'css/Beach.css'%}"*/
+form{
+    background-color: snow;
+    width: 50%;
+    margin-top: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+#left{
+    float: left;
+    background-image: url("/HTML-CSS-Bootstrap/Forms/images/Beach.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 48rem;
+}
+.txt1{
+    color: snow;
+    font-weight: bolder;
+    padding-top: 20%;
+    padding-left: 20%;
+    padding-right: 25%;
+    font-size: 50px;
+    margin-bottom: 0;
+    line-height: 1;
+}
+.txt2{
+    color: black;
+    font-size: 12px;
+    padding: 2rem;
+    padding-left: 20%;
+}
+#right{
+    float: right;
+    padding: 6%;
+}
+.fillthedetails{
+    border: none;
+    background: none;
+    border-bottom: 1px solid grey;
+    padding: 0;
+    width: 180%;
+    font-size: 1rem;
+}
+.login{
+    border-radius: 1rem;
+    width: 10rem;
+    color: snow;
+    background-color: red;
+    margin-left: 100%;
+    border: 1px red solid;
+}
+.font{
+    font-size: 24px;
+}
+.acceptance{
+    color: #aaa;
+}

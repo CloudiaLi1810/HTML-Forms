@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    background-image: url("/HTML-CSS-Bootstrap/Forms/images/background.jpg");
+    background-image: url("/background.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -14,7 +14,7 @@ form{
 }
 #left{
     float: left;
-    background-image: url("/HTML-CSS-Bootstrap/Forms/images/Beach.jpg");
+    background-image: url("/Beach.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 48rem;
